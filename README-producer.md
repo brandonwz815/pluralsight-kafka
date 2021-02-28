@@ -1,3 +1,6 @@
+# install kafka_2.13-2.7.0.tgz
+# For running KafkaProducerApp
+
 In Console 1, enter:
 
 sudo bin/zookeeper-server-srt.sh config/zookeeper.properties
